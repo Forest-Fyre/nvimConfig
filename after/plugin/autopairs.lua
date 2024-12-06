@@ -16,5 +16,3 @@ npairs.add_rules({
       return pair ~= '""'
     end)
 })
-""
-
